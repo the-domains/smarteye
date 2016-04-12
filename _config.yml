@@ -1,0 +1,14 @@
+layout_spectrum: 0.3051378
+color:
+  saturation: 0.6635338
+  lightness: 0.9711779
+  brandStrength: 0.9304512
+  brandColors:
+    - '#FFFFFF'
+    - '#E84B30'
+    - '#017FA4'
+    - '#A3BC76'
+    - '#000000'
+  rhythmicContrast: 0.6491228
+typography_spectrum: 0.4022556
+name: Smarteye
